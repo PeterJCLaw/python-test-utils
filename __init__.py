@@ -1,3 +1,3 @@
 
-from prettyprint import *
-from assertions import *
+from .prettyprint import *
+from .assertions import *
